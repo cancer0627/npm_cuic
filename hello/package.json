@@ -1,0 +1,12 @@
+{
+  "name": "hello_cancer0627",
+  "version": "1.0.4",
+  "description": "hello world",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cuic",
+  "license": "ISC",
+  "keywords": []
+}
